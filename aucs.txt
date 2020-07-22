@@ -1,0 +1,10 @@
+AGING: Train auc 0.847602, Val auc 0.780741, Test auc 0.78463
+CESAMO: Train auc 0.873787, Val auc 0.773439, Test auc 0.77596
+GENETIC: Train auc 0.858948, Val auc 0.774878, Test auc 0.77889 
+TARGET: Train auc 0.840344, Val auc 0.83017, Test auc 0.78677 
+WOE: Train auc 0.839698, Val auc 0.830302, Test auc 0.79065
+ENTITY: Train auc 0.866985, Test auc 0.82212, Test auc 0.79342
+
+
+
+
